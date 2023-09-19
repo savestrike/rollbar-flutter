@@ -12,7 +12,7 @@ dependencies:
   http: ^0.13.0
   collection: ^1.16.0
   sqlite3: ^1.7.0
-  uuid: ^3.0.0
+  uuid: ^4.0.0
   meta: ^1.7.0
 
 dev_dependencies:
